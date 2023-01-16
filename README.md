@@ -17,8 +17,8 @@
 <h3 align="left"> My <a href="https://github.com/vardant-a?tab=repositories" target="_blank">Repositories</a>
 
 <!--
-<h3 align="left"> My Stack </a>
-<h3 align="left"> - UIKit, SwiftUI  </a>
+<h3 align="left"> My Stack: </a>
+<h3 align="left"> - Swift, UIKit (Interface development using xib files, Interface Builder, AutoLayout (interface layout with code), SwiftUI  </a>
 <h3 align="left"> - MVC, MVVM, MVP, VIPER  </a>
 [![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white)](mailto:)
 -->
