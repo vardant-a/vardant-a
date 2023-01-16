@@ -17,6 +17,8 @@
 <h3 align="left"> My <a href="https://github.com/vardant-a?tab=repositories" target="_blank">Repositories</a>
 
 <h3 align="left"> My Stack: </a>
-<h3 align="left"> - Swift, UIKit (Interface development using xib files, Interface Builder, AutoLayout (interface layout with code), SwiftUI  </a>
-<h3 align="left"> - MVC, MVVM, MVP, VIPER  </a>
+<h3 align="left"> - Foundation, UIKit, SwiftUI  </a>
+<h3 align="left"> - Interface development using xib files, Interface Builder, AutoLayout (interface layout with code), SnapKit </a>
+<h3 align="left"> - Firebase, CoreData, Realm  </a>
+<h3 align="left"> - MVC, MVVM, MVP, VIPER, S.O.L.I.D.  </a>
 
