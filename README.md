@@ -1,12 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/vardant-a" target="_blank">Aleksei</a>  👋
 <h2 align="center">I'm junior <a href="https://github.com/vardant-a" target="_blank">iOS developer</a>
 
-<!--
-<h3 align="left"> My Stack </a>
-<h3 align="left"> - UIKit, SwiftUI  </a>
-<h3 align="left"> - MVC, MVVM, MVP, VIPER  </a>
--->
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vardant-a&theme=dark)  
 
@@ -18,7 +12,10 @@
 
 <h3 align="left"> My Stack: </a>
 <h3 align="left"> - Foundation, UIKit, SwiftUI  </a>
-<h3 align="left"> - Interface development using xib files, Interface Builder, AutoLayout (interface layout with code), SnapKit </a>
+<h3 align="left"> - Interface development:  </a>
+<h5 align="left"> * Using xib files  </a>
+<h5 align="left"> * Interface Builder </a> 
+<h5 align="left"> * AutoLayout (interface layout with code) </a>
+<h5 align="left"> * SnapKit </a>
 <h3 align="left"> - Firebase, CoreData, Realm  </a>
 <h3 align="left"> - MVC, MVVM, MVP, VIPER, S.O.L.I.D.  </a>
-
