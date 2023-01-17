@@ -18,5 +18,4 @@
 <h5 align="left"> * AutoLayout (interface layout with code) </a>
 <h5 align="left"> * SnapKit </a>
 <h3 align="left"> - Firebase, CoreData, Realm  </a>
-<h3 align="left"> - MVC, MVVM, MVP, VIPER, S.O.L.I.D.  </a>
-
+<h3 align="left"> - MVC, MVVM, S.O.L.I.D.  </a>
