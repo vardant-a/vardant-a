@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vardant_a)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhin.a.a@gmail.com)
 
-![GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vardant-a&theme=dark)  
 
 ## My Stack:
