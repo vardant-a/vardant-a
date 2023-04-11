@@ -11,12 +11,13 @@
 
 ## My Stack:
 
-<h3 align="left"> - Foundation, UIKit, SwiftUI  </a>
-<h3 align="left"> - Interface development:  </a>
-<h5 align="left"> * Using xib files  </a>
+<h3 align="left"> - Foundation, UIKit, SwiftUI </a>
+<h3 align="left"> - Interface development: </a>
+<h5 align="left"> * Using xib files </a>
 <h5 align="left"> * Interface Builder </a> 
 <h5 align="left"> * AutoLayout (interface layout with code) </a>
 <h5 align="left"> * SnapKit </a>
-<h3 align="left"> - Firebase, CoreData, Realm  </a>
-<h3 align="left"> - MVC, MVP, MVVM, S.O.L.I.D.  </a>
-<h3 align="left"> - CocaoPods, SPM  </a>
+<h3 align="left"> - Firebase, CoreData, Realm </a>
+<h3 align="left"> - MVC, MVP, MVVM, Coordinator, Factory </a>
+<h3 align="left"> - S.O.L.I.D., K.I.S.S, D.R.Y. </a>
+<h3 align="left"> - CocaoPods, SPM </a>
