@@ -1,5 +1,5 @@
 # Hi there 👋, I`m Aleksei
-- **I`m beginer iOS Developer**
+- **I`m iOS Developer**
 - **I learn Swift every day**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0277B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokhin)
