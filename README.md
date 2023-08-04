@@ -1,4 +1,4 @@
-# Hi there 👋, I`m Aleksei
+ш# Hi there 👋, I`m Aleksei
 - **I`m iOS Developer**
 - **I learn Swift every day**
 
@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vardant-a&theme=dark)  
 
-## My Stack:
+## My Stack:й
 
 <h3 align="left"> - Foundation, UIKit, SwiftUI </a>
 <h3 align="left"> Combine </a>
