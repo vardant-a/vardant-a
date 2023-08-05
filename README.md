@@ -1,6 +1,6 @@
 ш# Hi there 👋, I`m Aleksei
 - **I`m iOS Developer**
-- **I learn Swift every day**
+- **I use Swift every day**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0277B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokhin)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vardant_a)
@@ -9,7 +9,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=vardant-a&theme=dark)  
 
-## My Stack:й
+## My Stack:
 
 <h3 align="left"> - Foundation, UIKit, SwiftUI </a>
 <h3 align="left"> Combine </a>
