@@ -20,11 +20,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="swift" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" title="swift" width="40" height="40"/>&nbsp;
 </div>
-
-  
-![GitHub summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vardant-a&theme=github_dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vardant-a&show_icons=true&theme=github_dark)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=vardant-a&theme=dark)  
                   
 ## My Stack:
 
