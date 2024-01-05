@@ -2,7 +2,7 @@
   <h1>Hi there, I`m Aleksei</h1>
   <h3>iOS Developer from Russia</h3>
 </div>
-1
+
 <div id="socials" align="center">
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0277B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokhin)
