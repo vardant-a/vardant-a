@@ -29,7 +29,6 @@
 <h5 align="left"> * Interface Builder (Storyboard) </a> 
 <h5 align="left"> * AutoLayout (interface layout with code) </a>
 <h5 align="left"> * SnapKit </a>
-
 <h5 align="left"> * PinLayout </a>
 <h3 align="left"> - GCD, async/await, REST API, JSON API </a>
 <h3 align="left"> - Firebase, CoreData, Realm, UserDefaults, KeyChain, NotificationCenter </a>
