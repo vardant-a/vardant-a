@@ -26,7 +26,6 @@
 <h3 align="left"> - Foundation, UIKit, SwiftUI (+Combine) </a>
 <h3 align="left"> - Interface development: </a>
 <h5 align="left"> * Using xib files </a>
-<h5 align="left"> * Interface Builder (Storyboard) </a> 
 <h5 align="left"> * AutoLayout (interface layout with code) </a>
 <h5 align="left"> * SnapKit </a>
 <h5 align="left"> * PinLayout </a>
