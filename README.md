@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there, I`m Aleksei</h1>
-  <h3>iOS Developer from Russia</h3>
+  <h1>Hi there, I`m Aleksei, iOS Developer</h1>
 </div>
 
 <div id="socials" align="center">
