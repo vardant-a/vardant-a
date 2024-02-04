@@ -25,9 +25,7 @@
 <h3 align="left"> - Foundation, UIKit, SwiftUI (+Combine) </a>
 <h3 align="left"> - Interface development: </a>
 <h5 align="left"> * Using xib files </a>
-<h5 align="left"> * AutoLayout (interface layout with code) </a>
-<h5 align="left"> * SnapKit </a>
-<h5 align="left"> * PinLayout </a>
+<h5 align="left"> * AutoLayout (interface layout with code), SnapKit, PinLayout, Frame </a>
 <h3 align="left"> - GCD, async/await, REST API, JSON API </a>
 <h3 align="left"> - Firebase, CoreData, Realm, UserDefaults, KeyChain, NotificationCenter </a>
 <h3 align="left"> - MVC, MVP, MVVM, VIPER, Coordinator, Factory </a>
