@@ -25,7 +25,7 @@
 <h3 align="left"> - Foundation, UIKit, SwiftUI (+Combine) </a>
 <h3 align="left"> - Interface development: Using xib files, AutoLayout, SnapKit, PinLayout, Frame</a>
 <h3 align="left"> - GCD, async/await, REST API, JSON API </a>
-<h3 align="left"> - Firebase, CoreData, Realm, UserDefaults, KeyChain, NotificationCenter </a>
+<h3 align="left"> - Firebase, CoreData, Realm, UserDefaults, KeyChain, Notification </a>
 <h3 align="left"> - MVC, MVP, MVVM, VIPER, Coordinator, Factory </a>
 <h3 align="left"> - S.O.L.I.D., K.I.S.S, D.R.Y. </a>
 <h3 align="left"> - CocaoPods, SPM </a>
