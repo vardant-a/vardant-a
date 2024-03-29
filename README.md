@@ -29,4 +29,4 @@
 <h3 align="left"> - MVC, MVP, MVVM, VIPER, Coordinator, Factory </a>
 <h3 align="left"> - S.O.L.I.D., K.I.S.S, D.R.Y. </a>
 <h3 align="left"> - CocaoPods, SPM </a>
-<h3 align="left"> - Git </a>
+<h3 align="left"> - Git, Tuist </a>
