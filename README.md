@@ -4,7 +4,7 @@
 
 <div id="socials" align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0277B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokhin)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0277B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vardant)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vardant_a)
 [![Gmail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lokhin.a.a@gmail.com)
 </div>
